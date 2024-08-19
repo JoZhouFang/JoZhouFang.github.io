@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
 Here is **Zhou Fang (Jo, 方舟)**.
 
 I am a master majoring in Quantum science and engineering at Southern university of science and technology. My advisor is Yifei Zhu(https://yifeizhu.github.io/) and Liang Kong(https://www.sustech.edu.cn/zh/faculties/liangkong.html).
