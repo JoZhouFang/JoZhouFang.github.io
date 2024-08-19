@@ -16,3 +16,5 @@ It's a small workshop because the participants are only Chenlu Huang and me, hel
 
 - **Introduction to stratified vector bundles**[link](https://JoZhouFang.github.io/writtingtalks/file_wt/Introduction to stratified vector bundles.pdf)
 
+- **Selected topics in algebraic geometry**[link](https://JoZhouFang.github.io/writtingtalks/file_wt/Review Algebraic Geometry.pdf) I talk about blow up, smoothness based on my note (the above link).
+

@@ -16,7 +16,7 @@ spin system and the two -particle system.
 - **Visualizasion for π1(SO(3)/D2) and rotation of eigenvectors:**[link](https://JoZhouFang.github.io/file/visualizasion of fundmental group of SO(3)D2(6).pdf) In this article we will visualize SO(3)/D2 and π1(SO(3)/D2) to obtain a nice picture describing rotation of eigenframes.
 
 
-- **My Talks in Small workshop about several topics about geometry and topology, 24 summer:**[link](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology) It contains the following topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles.
+- **My Talks in Small workshop about several topics about geometry and topology, 24 summer:**[link](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology) It contains the following topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles, blow up and smoothness in algebraic geometry.
 
 - **[Notes on Higgs bundles]()**还未上传
 
