@@ -17,8 +17,7 @@ title: Experences
 ## Conferences:
 
 -**International Workshop on Algebraic Topology 2024**, Fudan University, 2024.6.23-6.27
-
--**Topology summer school**, Yau Mathematical Siences Center
+-**Topology summer school in 2024**, Yau Mathematical Siences Center, 2024.7.1-7.9
 <br>
 
 ---
@@ -26,7 +25,6 @@ title: Experences
 ## Teaching assistant:
 
 -**Advanced mathematics**(23 fall), teaching sources are [here](https://JoZhouFang.github.io/experences/advancedmathematics)
-
 -**15 lectures of personalitiy building**(24 spring)
 <br>
 
