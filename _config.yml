@@ -29,12 +29,11 @@ links:
     url: /
   - title: Research/Talks
     url: /Rresearch/Talks/
-  - title: Blog
-    url: /blog/
+  - title: Blogs
+    url: /blogs/
   - title: Experences
     url: /experences/
-    -title: Advanced mathematics 
-    url: /experences/advancedmathematics
+   
  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
