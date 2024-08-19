@@ -31,6 +31,4 @@ I am a master majoring in Quantum science and engineering at Southern university
 
 ---
 
-## News and Updates
 
-- **June 2024**：???
