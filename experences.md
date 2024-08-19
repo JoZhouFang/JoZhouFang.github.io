@@ -25,7 +25,7 @@ title: Experences
 
 ## Teaching assistant:
 
--**Advanced mathematics**(23 fall), teaching sources are [here]这里要改这里要改这里要改。
+-**Advanced mathematics**(23 fall), teaching resources are [here](https://JoZhouFang.github.io/experences/advancedmathematics)
 
 -**15 lectures of personalitiy building**(24 spring)
 
