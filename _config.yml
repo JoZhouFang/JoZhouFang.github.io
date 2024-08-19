@@ -7,12 +7,11 @@ url: https://jozhoufang.github.io/
 owner:
   name: Zhou Fang
   avatar: zhoufang.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: 12333069@mail.sustech.edu.cn
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  bio: A free module over Sustech
+  #email: 12333069@mail.sustech.edu.cn
+  #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: GuangLun2000
-  zhihu: https://www.zhihu.com/people/chlire
+  #zhihu: https://www.zhihu.com/people/fang-zhou-74-30
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
@@ -34,8 +33,8 @@ links:
     url: /blog/
   - title: Hobbies
     url: /hobbies/
-  - title: Activities
-    url: /activities/
+  - title: Experence
+    url: /experence/
  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
