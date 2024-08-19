@@ -4,9 +4,11 @@ permalink: /experences/admath/index.html
 title: Advanced mathematics
 ---
 
-# Resources for teaching assistant of Advanced mathematics I
+# Teaching assistant for Advanced mathematics I
 
-## handout
+I am teaching assistant for advanced mathematics I in 23 fall. I list my resoures here.
+
+## Handout
 - [week1](https://JoZhouFang.github.io/experences/files_ex/admath/handout_wk1.pdf)
 - [week2](https://JoZhouFang.github.io/experences/files_ex/admath/handout_wk2.pdf)
 - [week5](https://JoZhouFang.github.io/experences/files_ex/admath/handout_wk5.pdf)
