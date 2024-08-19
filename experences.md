@@ -35,7 +35,7 @@ title: Experences
 
 - **workshop on infinite categroy**, 23 fall, organized by Yunhao Sun and me
 
-- **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/), 24 spring, wenhui Yang, Chenlu Huang, and me give a talk on May 21
+- **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/), 24 spring, Wenhui Yang, Chenlu Huang, and me give a talk on May 21
 
 - **Small workshop about several topics about geometry and topology**, 24 summer (participants are Chenlu Huang and me), you can see some resources [here](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology)
 
