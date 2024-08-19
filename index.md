@@ -9,6 +9,7 @@ Here is **Zhou Fang (Jo, 方舟)**.
 I am a master majoring in Quantum science and engineering at Southern university of science and technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/) and [Liang Kong](https://www.sustech.edu.cn/zh/faculties/liangkong.html).
 
 **Email:**12333069@mail.sustech.edu.cn
+
 **[resume](https://JoZhouFang.github.io/file/resume.pdf)**
 ****
 
