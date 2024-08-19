@@ -6,15 +6,17 @@ title: Writting/Talks
 
 I post some of my writtings to record my growth. Some of them are drafts(not typed by latex), but I think it's still useful (I may type them in latex if I have time).
 
-- **[Physical picture of tensor products and direct sum:]**(https://JoZhouFang.github.io/file/Physical picture of tensor products and direct sum.pdf)
+- **[Physical picture of tensor products and direct sum:](https://JoZhouFang.github.io/file/Physical picture of tensor products and direct sum.pdf)**
 Tensor products and direct sums of vector spaces are abstract concepts
 in linear algebra. In this article, we aim to elucidate these abstrct notions
 by developing into the physical manifestations of two systems: the 1/2-
 spin system and the two -particle system.
 
-- **[My Talks in Small workshop about several topics about geometry and topology, 24 summer](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology)**
+
+- [Visualizasion for π1(SO(3)/D2) and rotation of eigenvectors](https://JoZhouFang.github.io/file/visualizasion of fundmental group of SO(3)D2(6).pdf): In this article we will visualize SO(3)/D2 and π1(SO(3)/D2) to obtain a nice picture describing rotation of eigenframes.
 
 
+- **[My Talks in Small workshop about several topics about geometry and topology, 24 summer](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology):** Contains topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles.
 
 - **[Notes on Higgs bundles]()**还未上传
 
