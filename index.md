@@ -23,9 +23,9 @@ My resume is **[here](https://JoZhouFang.github.io/file/resume.pdf)**
 
 ## Research Interests
 
--Mathematical physics
--Algrbraic topology
--Category theory
+- Mathematical physics
+- Algrbraic topology
+- Category theory
 
 
 
