@@ -33,6 +33,8 @@ links:
     url: /blog/
   - title: Experences
     url: /experences/
+    -title: Advanced mathematics I
+    url: /experences/advancedmathematics
  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
