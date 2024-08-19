@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: admath/experences/index.html
+permalink: /experences/admath/index.html
 title: Advanced mathematics
 ---
 
