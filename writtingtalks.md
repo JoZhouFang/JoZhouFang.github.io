@@ -12,19 +12,13 @@ in linear algebra. In this article, we aim to elucidate these abstrct notions
 by developing into the physical manifestations of two systems: the 1/2-
 spin system and the two -particle system.
 
-- **[Notes on algebraic geometry]()**: Notes for Gathmann's algebraic geometry. It's more detailed and organized more reasonable. Besides, I plugging some useful comment here.这里要改这里要改这里要改
+- **[My Talks in Small workshop about several topics about geometry and topology, 24 summer](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology)**
 
-- **[Talk: Sheaf theory(ch II)](https://JoZhouFang.github.io/file/sheaf theory.pdf)** : Notes for gtm65 chII, it's about presheaves/sheaves, resolution of sheaves, cohomolgy theory and cech cohomology. It's more detailed (so more friendly) than gtm65.
 
-- **[Talk: When do we have k-spectral bundles?]()**
 
-- **[Talk: How to tell a fiber bundle is trivial?]()**
+- **[Notes on Higgs bundles]()**还未上传
 
-- **[Talk: Introduction to stratified vector bundles](https://JoZhouFang.github.io/file/Introduction to stratified vector bundles.pdf)**
-
-- **[Notes on Higgs bundles]()**这里要改这里要改这里要改
-
-- **[differential geometry of vector bundles(ch III)]()**: 这里要改这里要改这里要改
+- **[Differential geometry of vector bundles(ch III in gtm65)]()**: 还未上传
 
 
 
