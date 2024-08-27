@@ -20,7 +20,7 @@ spin system and the two -particle system.
 
 - **[Notes on Higgs bundles]()**还未上传
 
-- **[Differential geometry of vector bundles(ch III in gtm65)]:**[link](https://JoZhouFang.github.io/file/Diff. geo. of vec. bundles.pdf) 
+- **Differential geometry of vector bundles(ch III in gtm65):**[link](https://JoZhouFang.github.io/file/Diff. geo. of vec. bundles.pdf) 
 
 
 
