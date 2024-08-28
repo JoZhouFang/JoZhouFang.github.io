@@ -19,11 +19,11 @@ spin system and the two -particle system.
 
 - **My Talks in Small workshop about several topics about geometry and topology, 24 summer:**[link](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology) It contains the following topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles, blow up and smoothness in algebraic geometry.
 
-- **[Notes on Higgs bundles]()**还未上传
+- **Notes on Higgs bundles**还未上传
 
-- **Differential geometry of vector bundles(ch III in gtm65):**[link](https://JoZhouFang.github.io/file/Diff. geo. of vec. bundles.pdf) It introduce connections, curvatures and Chern classes in analysis version.
+- **Differential geometry of vector bundles(ch III in gtm65):**[link](https://JoZhouFang.github.io/file/Diff. geo. of vec. bundles.pdf) It introduces connections, curvatures and Chern classes in analysis version.
 
-
+- **Notes on fiber bundles:**[link](https://JoZhouFang.github.io/file/fiber bundle.pdf) It introduces fiber bundles, principal bundles, classification of principal bundles and characteristic classes including Chern classes, Stiefel -Whitney classes, and Pontrjagin classes. It's the note for this **[lecture notes](https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf)**
 
 
 
