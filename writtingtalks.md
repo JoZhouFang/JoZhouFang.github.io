@@ -19,7 +19,7 @@ spin system and the two -particle system.
 
 - **My Talks in Small workshop about several topics about geometry and topology, 24 summer:**[link](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology) It contains the following topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles, blow up and smoothness in algebraic geometry.
 
-- **Notes on Higgs bundles**还未上传
+- **Notes on Higgs bundles**[link](https://JoZhouFang.github.io/file/Higgs bundle.pdf) Introduce definition of Higgs bundles and non abelian Hodge correspondence.
 
 - **Differential geometry of vector bundles(ch III in gtm65):**[link](https://JoZhouFang.github.io/file/Diff. geo. of vec. bundles.pdf) It introduces connections, curvatures and Chern classes in analysis version.
 
