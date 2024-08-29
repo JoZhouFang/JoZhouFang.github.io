@@ -25,7 +25,7 @@ spin system and the two -particle system.
 
 - **Notes on fiber bundles:**[link](https://JoZhouFang.github.io/file/fiber bundle.pdf) It introduces fiber bundles, principal bundles, classification of principal bundles and characteristic classes including Chern classes, Stiefel -Whitney classes, and Pontrjagin classes. It's the note for ch3,4 of this **[lecture notes](https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf)**.
 
--**Notes on homotopy theory:**[link](https://JoZhouFang.github.io/file/Notes on homotopy theory.pdf) The main reference of this note is Hatcher's algebraic topology and ch1,2 for this **[lecture notes](https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf)**.
+- **Notes on homotopy theory:**[link](https://JoZhouFang.github.io/file/Notes on homotopy theory.pdf) The main reference of this note is Hatcher's algebraic topology and ch1,2 for this **[lecture notes](https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf)**.
 
 
 
