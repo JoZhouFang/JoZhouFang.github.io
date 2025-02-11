@@ -4,9 +4,9 @@ permalink: /experences/index.html
 title: Experiences
 ---
 
-# Experences
+# Experiences
 ---
-## Visiting experences:
+## Visiting experiences:
 
 - **YanQi Lake Beijing Institute of mathematical science and technology**, invited by [Hao Zheng](https://ymsc.tsinghua.edu.cn/info/1031/2313.htm) in October.2023 
 
@@ -20,13 +20,14 @@ title: Experiences
 
 - **Topology summer school in 2024**, Yau Mathematical Siences Center, 2024.7.1-7.9
 
+-**Workshop on computer-assisted research in geometry and topology**, Kunming Tianyuan Mathematics Research Center, 2024.9.8-9.14
+
 
 ---
 
 ## Teaching assistant:
 
 - **Advanced mathematics**(23 fall), teaching resources are [here](https://JoZhouFang.github.io/experences/admath)
-
 
 - **15 lectures of personalitiy building**(24 spring)
 
@@ -36,7 +37,13 @@ title: Experiences
 
 - **workshop on infinite categroy**, 23 fall, organized by Yunhao Sun and me
 
-- **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/), 24 spring, Wenhui Yang, Chenlu Huang, and me gave a talk on May 21
+- **Small workshop about several topics about geometry and topology**, 24 summer (participants are Chenlu Huang and me), my talks are in [link](https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology)
 
-- **Small workshop about several topics about geometry and topology**, 24 summer (participants are Chenlu Huang and me), my talks are in [link](https://JoZhouFang.github.io/writtingtalks/Small workshop about several topics about geometry and topology)
+- <h2>Graduated Topology Seminar</h2>
+<p><a href="https://sustech-topology.github.io/grad/">[link]</a></p>
+
+<ul>
+    <li>Wenhui Yang, Chenlu Huang, and me gave the talk "" on May 21, '24.</li>
+    <li>A brief introduction to intersection homology on Dec 2, '24.</li>
+</ul>
 
