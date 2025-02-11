@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-Here is **Zhou Fang (Jo, 方舟)**.
+My name is **Zhou Fang (Jo, 方舟)**.
 
-I am a master majoring in Quantum science and engineering at Southern university of science and technology. My advisors are [Yifei Zhu](https://yifeizhu.github.io/) and [Liang Kong](https://www.sustech.edu.cn/zh/faculties/liangkong.html).
+I am a master majoring in Quantum science and engineering at Southern university of science and technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/) and my previous advisor is [Liang Kong](https://www.sustech.edu.cn/zh/faculties/liangkong.html).
 
 **Email:**12333069@mail.sustech.edu.cn
 
@@ -23,9 +23,9 @@ I am a master majoring in Quantum science and engineering at Southern university
 
 ## Research Interests
 
-- Mathematical physics
-- Algrbraic topology
+- Algebraic topology
 - Category theory
+
 
 
 
