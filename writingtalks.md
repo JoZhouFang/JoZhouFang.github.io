@@ -18,9 +18,6 @@ spin system and the two -particle system.
 
 - **Visualizasion for π1(SO(3)/D2) and rotation of eigenvectors:**[link](https://JoZhouFang.github.io/file/visual.grp.pdf) In this article we will visualize SO(3)/D2 and π1(SO(3)/D2) to obtain a nice picture describing rotation of eigenframes.
 
-- **Some computation examples in intersection homology**
-
-
 - **Notes on Higgs bundles**[link](https://JoZhouFang.github.io/file/Higgs.bdl.pdf) Introduce definition of Higgs bundles and non abelian Hodge correspondence.
 
 - **Differential geometry of vector bundles(ch III in gtm65):**[link](https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf) It introduces connections, curvatures and Chern classes in analysis version.
