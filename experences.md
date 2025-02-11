@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experences/index.html
-title: Experences
+title: Experiences
 ---
 
 # Experences
@@ -30,6 +30,7 @@ title: Experences
 
 - **15 lectures of personalitiy building**(24 spring)
 
+- **Linear algebra**(24 fall), teaching resources are [here](https://JoZhouFang.github.io/experences/la)
 
 ## Workshop/seminar:
 
