@@ -33,17 +33,15 @@ title: Experiences
 
 - **Linear algebra**(24 fall), teaching resources are [here](https://JoZhouFang.github.io/experences/la)
 
+---
+
 ## Workshop/seminar:
 
 - **workshop on infinite categroy**, 23 fall, organized by Yunhao Sun and me
 
 - **Small workshop about several topics about geometry and topology**, 24 summer (participants are Chenlu Huang and me), my talks are in [link](https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology)
 
-- <h2>Graduated Topology Seminar</h2>
-<p><a href="https://sustech-topology.github.io/grad/">[link]</a></p>
-
-<ul>
-    <li>Wenhui Yang, Chenlu Huang, and me gave the talk "" on May 21, '24.</li>
-    <li>A brief introduction to intersection homology on Dec 2, '24.</li>
-</ul>
+- **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/)
+    - Wenhui Yang, Chenlu Huang, and me gave the talk "" on May 21,'24 
+    - A brief introduction to intersection homolgy on Dec 2,'24 
 
