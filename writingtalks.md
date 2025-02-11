@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /writtingtalks/index.html
-title: Writting/Talks
+permalink: /writingtalks/index.html
+title: Writing/Talks
 ---
 
 # Writings
@@ -35,7 +35,7 @@ spin system and the two -particle system.
 
 - **My Talks in Small workshop about several topics about geometry and topology, 24 summer:**[link](https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology) It contains the following topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles, blow up and smoothness in algebraic geometry.
 
-- **Energy bands and Higgs bundles, 24/9/10 at Kunming Tianyuan Mathematics Research Center:**[slids](https://JoZhouFang.github.io/file/bands_Zhou.pdf) In this talk I explain what energy bands are and show that Higgs bundles are useful to describe the topology of energy bands.
+- **Energy bands and Higgs bundles, 24/9/10 at Kunming Tianyuan Mathematics Research Center:**[slides](https://JoZhouFang.github.io/file/bands_Zhou.pdf) In this talk I explain what energy bands are and show that Higgs bundles are useful to describe the topology of energy bands.
 
--**A general introduction to intersection homology, 25/1/11 at Sustech 2nd Mathematics workshop:**[note](https://JoZhouFang.github.io/file/int_homolgy.pdf)  In recent years, intersection homology has become an indispensable tool for studying the topology of singular spaces. While the main results of usual homology theories often fail for singular spaces, intersection homology effectively recovers these properties, bridging this critical gap. In this talk, I will present the foundational concepts of GM intersection homology (including simplicial intersection homology, PL intersection homology, and singular intersection homology) and some examples. Finally, I may explore the topic of non-GM (Goresky-MacPherson) intersection homology. Reference: Singular intersection homology, Greg Friedman, https://www.cambridge.org/core/books/singular-intersection-homology/5F44CE866BA329E31D9AE92E7F9392BE
+-**A general introduction to intersection homology, 25/1/11 at Sustech 2nd Mathematics workshop:**[note](https://JoZhouFang.github.io/file/int_homolgy.pdf)  In recent years, intersection homology has become an indispensable tool for studying the topology of singular spaces. While the main results of usual homology theories often fail for singular spaces, intersection homology effectively recovers these properties, bridging this critical gap. In this talk, I will present the foundational concepts of GM intersection homology (including simplicial intersection homology, PL intersection homology, and singular intersection homology) and some examples. Finally, I may explore the topic of non-GM (Goresky-MacPherson) intersection homology. Reference is [here](https://www.cambridge.org/core/books/singular-intersection-homology/5F44CE866BA329E31D9AE92E7F9392BE). 
 
