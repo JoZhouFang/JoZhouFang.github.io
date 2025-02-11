@@ -42,6 +42,6 @@ title: Experiences
 - **Small workshop about several topics about geometry and topology**, 24 summer (participants are Chenlu Huang and me), my talks are in [link](https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology)
 
 - **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/)
-    - Wenhui Yang, Chenlu Huang, and me gave the talk "" on May 21,'24 
+    - Wenhui Yang, Chenlu Huang, and me gave the talk "Topology and geometry of singularities" on May 21,'24 
     - A brief introduction to intersection homolgy on Dec 2,'24 
 
