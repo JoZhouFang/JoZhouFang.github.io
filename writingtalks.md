@@ -18,6 +18,7 @@ spin system and the two -particle system.
 
 - **Visualizasion for π1(SO(3)/D2) and rotation of eigenvectors:**[link](https://JoZhouFang.github.io/file/visual.grp.pdf) In this article we will visualize SO(3)/D2 and π1(SO(3)/D2) to obtain a nice picture describing rotation of eigenframes.
 
+
 - **Notes on Higgs bundles**[link](https://JoZhouFang.github.io/file/Higgs.bdl.pdf) Introduce definition of Higgs bundles and non abelian Hodge correspondence.
 
 - **Differential geometry of vector bundles(ch III in gtm65):**[link](https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf) It introduces connections, curvatures and Chern classes in analysis version.
@@ -27,6 +28,7 @@ spin system and the two -particle system.
 - **Notes on homotopy theory:**[link](https://JoZhouFang.github.io/file/homotopy.pdf) The main reference of this note is Hatcher's algebraic topology and ch1,2 for this **[lecture notes](https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf)**.
 
 - **Notes on stable homotopy theory:**[link](https://JoZhouFang.github.io/file/stb.pdf) Introduce some basic defintion in stable homotopy theory such as spectrum, stable homology theory, stable homotopy category and so on, which also appear in many other topics. The main reference is [link](https://services.math.duke.edu/~kgw/8803_Stable)
+
 
 # Talks
 
