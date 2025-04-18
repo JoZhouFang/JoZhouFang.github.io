@@ -30,6 +30,8 @@ spin system and the two -particle system.
 - **Notes on stable homotopy theory:**[link](https://JoZhouFang.github.io/file/stb.pdf) Introduce some basic defintion in stable homotopy theory such as spectrum, stable homology theory, stable homotopy category and so on, which also appear in many other topics. The main reference is [link](https://services.math.duke.edu/~kgw/8803_Stable)
 
 
+- **Slides on stable homotopy theory:**[link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) 
+
 # Talks
 
 - **My Talks in Small workshop about several topics about geometry and topology, 24 summer:**[link](https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology) It contains the following topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles, blow up and smoothness in algebraic geometry.
