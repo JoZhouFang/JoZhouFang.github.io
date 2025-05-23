@@ -43,6 +43,7 @@ title: Experiences
 
 - **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/)
     - Wenhui Yang, Chenlu Huang, and me gave the talk "Topology and geometry of singularities" on May 21,'24 
-    - A brief introduction to intersection homolgy on Dec 2,'24 
-    - Exploring infinity category via simplicial sets on Apr 18,25 [link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) 
+    - A brief introduction to intersection homolgy on Dec 02,'24 
+    - Exploring infinity category via simplicial sets on Apr 18,'25 [link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) 
+    -Homotopy theory via model categories and their underlying $\infty$-Categories on May 23,'25[link](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
 
