@@ -30,7 +30,6 @@ spin system and the two -particle system.
 - **Notes on stable homotopy theory:**[link](https://JoZhouFang.github.io/file/stb.pdf) Introduce some basic defintion in stable homotopy theory such as spectrum, stable homology theory, stable homotopy category and so on, which also appear in many other topics. The main reference is [link](https://services.math.duke.edu/~kgw/8803_Stable)
 
 
-- **Slides on stable homotopy theory:**[link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) 
 
 # Talks
 
