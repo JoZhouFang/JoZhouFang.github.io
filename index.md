@@ -6,28 +6,31 @@ layout: page
 
 My name is **Zhou Fang (Jo, 方舟)**.
 
-I am a master majoring in Quantum science and engineering at Southern university of science and technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/) and my previous advisor is [Liang Kong](https://www.sustech.edu.cn/zh/faculties/liangkong.html).
+I am a master at Southern university of science and technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/).
 
 **Email:**12333069@mail.sustech.edu.cn
 
 **Resume:** see [here](https://JoZhouFang.github.io/file/resume.pdf)
 
+## What I learned
+- Category Theory:Infinity category, Simplicial sets, Derived functors, Model categories, Homotopy limits/colimits
+- Algebraic Topoligy: Stable homotopy theory, Intersection homology/homotopy
+- Geometry: Algebraic geometry, Differential geometry especially for holomorphic bundles 
+- Quantum Physics: Quantum information, Quantum optics, Quantum techniques, Topological order 
+
 
 ## Academic Background
 
 - **Sep 2019 - June 2023:**Southern University of Science and Technology (adviced by [Fei Ye](https://phy.sustech.edu.cn/faculty/detail/id/221.html?lang=zh-cn) and [Liang Kong](https://www.sustech.edu.cn/zh/faculties/liangkong.html))
-- **Sep 2023 - :** Southern University of Science and Technology, adviced by [Yifei Zhu](https://yifeizhu.github.io/) and [Liang Kong](https://www.sustech.edu.cn/zh/faculties/liangkong.html)
+- **Sep 2023 - :** Southern University of Science and Technology, adviced by [Yifei Zhu](https://yifeizhu.github.io/).
 
 
 ---
 
 ## Research Interests
 
-- Algebraic topology
-- Category theory
-
-
-
+- Higher Algebra
+- Category Theory
 
 ---
 
