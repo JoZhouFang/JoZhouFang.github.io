@@ -6,6 +6,8 @@ title: Writing/Talks
 
 # Writings
 
+[link](https://JoZhouFang.github.io/file/model_inf_5.23.pdf),[link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) ,[link](https://JoZhouFang.github.io/file/report_25-05-27.pdf  )
+
 - **Physical picture of tensor products and direct sum:** [link](https://JoZhouFang.github.io/file/Phy.pic.pdf)
 Tensor products and direct sums of vector spaces are abstract concepts
 in linear algebra. In this article, we aim to elucidate these abstrct notions
