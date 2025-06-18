@@ -6,9 +6,6 @@ title: Writing/Talks
 
 # Writings
 
-I post some of my writtings to record my growth. Some of them are drafts(not typed by latex), but I think it's still useful (I may type them in latex if I have time).
-
-
 - **Physical picture of tensor products and direct sum:** [link](https://JoZhouFang.github.io/file/Phy.pic.pdf)
 Tensor products and direct sums of vector spaces are abstract concepts
 in linear algebra. In this article, we aim to elucidate these abstrct notions
@@ -39,3 +36,8 @@ spin system and the two -particle system.
 
 -**A general introduction to intersection homology, 25/1/11 at Sustech 2nd Mathematics workshop:**[note](https://JoZhouFang.github.io/file/int_homolgy.pdf)  In recent years, intersection homology has become an indispensable tool for studying the topology of singular spaces. While the main results of usual homology theories often fail for singular spaces, intersection homology effectively recovers these properties, bridging this critical gap. In this talk, I will present the foundational concepts of GM intersection homology (including simplicial intersection homology, PL intersection homology, and singular intersection homology) and some examples. Finally, I may explore the topic of non-GM (Goresky-MacPherson) intersection homology. Reference is [here](https://www.cambridge.org/core/books/singular-intersection-homology/5F44CE866BA329E31D9AE92E7F9392BE). 
 
+- **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/)
+    - Wenhui Yang, Chenlu Huang, and me gave the talk "Topology and geometry of singularities" on May 21,'24 
+    - A brief introduction to intersection homolgy on Dec 02,'24 
+    - Exploring infinity category via simplicial sets on Apr 18,'25 [link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) 
+    -Homotopy theory via model categories and their underlying $\infty$-Categories on May 23,'25[link](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
