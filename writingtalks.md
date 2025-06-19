@@ -4,15 +4,15 @@ permalink: /writingtalks/index.html
 title: Writing/Talks
 ---
 
-# Talks
+## Talks
 
  - **Exploring infinity category via simplicial sets**, Graduated topology seminar of Sustech, Apr 18,'25 [slides](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf)
 
- - **Homotopy theory via model categories and their underlying $\infty$-Categories** Graduated topology seminar of Sustech, May 23,'25[slides](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
+ - **Homotopy theory via model categories and their underlying infinity-Categories** Graduated topology seminar of Sustech, May 23,'25[slides](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
 
  - **A general introduction to intersection homology**, Sustech 2nd Mathematics workshop, Nov 1,'25 [notes](https://JoZhouFang.github.io/file/int_homolgy.pdf)
 
-- **Energy bands and Higgs bundles**, Workshop on computer-assisted research in geometry and topology, Oct 9,'24 Kunming Tianyuan Mathematics Research Center:**[slides](https://JoZhouFang.github.io/file/bands_Zhou.pdf) 
+- **Energy bands and Higgs bundles**, Workshop on computer-assisted research in geometry and topology, Oct 9,'24 Kunming Tianyuan Mathematics Research Center:[slides](https://JoZhouFang.github.io/file/bands_Zhou.pdf) 
 
 - **Topology and geometry of singularities**, Graduated topology seminar of Sustech, May 21,'24, given by Wenhui Yang and Chenlu Huang, [slides](https://JoZhouFang.github.io/file/topo_sin.pdf)   
 
@@ -32,7 +32,7 @@ As a teaching assistant at the university, I was required to **give a weekly cla
 - **Linear algebra**(24 fall), teaching resources are [here](https://JoZhouFang.github.io/experences/la)
 
 
-# Latex Writtings/Notes
+## Latex Writtings/Notes
 
 - **Homotopy limits and colimits**[link](https://JoZhouFang.github.io/file/homlim.pdf) Introduced homotopy limits and colimits via derived functors.
 
