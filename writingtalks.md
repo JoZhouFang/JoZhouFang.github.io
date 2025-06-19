@@ -4,9 +4,41 @@ permalink: /writingtalks/index.html
 title: Writing/Talks
 ---
 
+# Talks
+
+ - **Exploring infinity category via simplicial sets**, Graduated topology seminar of Sustech, Apr 18,'25 [link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf)
+
+ - **Homotopy theory via model categories and their underlying $\infty$-Categories** Graduated topology seminar of Sustech, May 23,'25[link](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
+
+ - **A general introduction to intersection homology**, Sustech 2nd Mathematics workshop, Nov 1,'25 [note](https://JoZhouFang.github.io/file/int_homolgy.pdf)
+
+- **Energy bands and Higgs bundles**, Workshop on computer-assisted research in geometry and topology, Oct 9,'24 Kunming Tianyuan Mathematics Research Center:**[slides](https://JoZhouFang.github.io/file/bands_Zhou.pdf) 
+
+
+
+
+## Organized Workshops:
+
+- **workshop on infinite categroy**, 23 fall, organized by Yunhao Sun and me
+
+- **Small workshop about several topics about geometry and topology**, 24 summer,organized by Chenlu Huang and me. My talks are in [link](https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology)
+
+
+
+
+
+- ****[link](https://sustech-topology.github.io/grad/)
+    - Wenhui Yang, Chenlu Huang, and me gave the talk "Topology and geometry of singularities" on May 21,'24 
+    - A brief introduction to intersection homolgy on Dec 02,'24 
+    
+   
+
+
+
+
 # Writings
 
-[link](https://JoZhouFang.github.io/file/model_inf_5.23.pdf),[link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) ,[link](https://JoZhouFang.github.io/file/report_25-05-27.pdf  )
+[link](https://JoZhouFang.github.io/file/model_inf_5.23.pdf),[link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) ,[link](https://JoZhouFang.github.io/file/report_25-05-27.pdf )
 
 - **Physical picture of tensor products and direct sum:** [link](https://JoZhouFang.github.io/file/Phy.pic.pdf)
 Tensor products and direct sums of vector spaces are abstract concepts
@@ -30,16 +62,3 @@ spin system and the two -particle system.
 
 
 
-# Talks
-
-- **My Talks in Small workshop about several topics about geometry and topology, 24 summer:**[link](https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology) It contains the following topics: sheaf theory, when do we have k-spectral bundles, how to tell a fiber bundle is trivial, introduction to stratified vector bundles, blow up and smoothness in algebraic geometry.
-
-- **Energy bands and Higgs bundles, 24/9/10 at Kunming Tianyuan Mathematics Research Center:**[slides](https://JoZhouFang.github.io/file/bands_Zhou.pdf) In this talk I explain what energy bands are and show that Higgs bundles are useful to describe the topology of energy bands.
-
--**A general introduction to intersection homology, 25/1/11 at Sustech 2nd Mathematics workshop:**[note](https://JoZhouFang.github.io/file/int_homolgy.pdf)  In recent years, intersection homology has become an indispensable tool for studying the topology of singular spaces. While the main results of usual homology theories often fail for singular spaces, intersection homology effectively recovers these properties, bridging this critical gap. In this talk, I will present the foundational concepts of GM intersection homology (including simplicial intersection homology, PL intersection homology, and singular intersection homology) and some examples. Finally, I may explore the topic of non-GM (Goresky-MacPherson) intersection homology. Reference is [here](https://www.cambridge.org/core/books/singular-intersection-homology/5F44CE866BA329E31D9AE92E7F9392BE). 
-
-- **Graduated topology seminar**[link](https://sustech-topology.github.io/grad/)
-    - Wenhui Yang, Chenlu Huang, and me gave the talk "Topology and geometry of singularities" on May 21,'24 
-    - A brief introduction to intersection homolgy on Dec 02,'24 
-    - Exploring infinity category via simplicial sets on Apr 18,'25 [link](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf) 
-    -Homotopy theory via model categories and their underlying $\infty$-Categories on May 23,'25[link](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
