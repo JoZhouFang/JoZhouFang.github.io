@@ -6,7 +6,7 @@ layout: page
 
 My name is **Zhou Fang (Jo, 方舟)**.
 
-I am a master at Southern university of science and technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/).
+I am a master at Southern university of science and technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/). 
 
 **Email:**12333069@mail.sustech.edu.cn
 
