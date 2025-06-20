@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /writtingtalks/Small workshop about several topics about geometry and topology/index.html
+permalink: /writingtalks/Small workshop about several topics about geometry and topology/index.html
 title: My Talks in Small workshop about several topics about geometry and topology, 24 summer
 ---
 
