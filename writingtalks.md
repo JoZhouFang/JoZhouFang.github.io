@@ -8,7 +8,7 @@ title: Writing/Talks
 
  - **Exploring infinity category via simplicial sets**, Graduated topology seminar of Sustech, Apr 18,'25 [slides](https://JoZhouFang.github.io/file/inf_cat_4.18.pdf)
 
- - **Homotopy theory via model categories and their underlying infinity-Categories** Graduated topology seminar of Sustech, May 23,'25[slides](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
+ - **Homotopy theory via model categories and their underlying infinity-Categories**, Graduated topology seminar of Sustech, May 23,'25[slides](https://JoZhouFang.github.io/file/model_inf_5.23.pdf)
 
  - **A general introduction to intersection homology**, Sustech 2nd Mathematics workshop, Nov 1,'25 [notes](https://JoZhouFang.github.io/file/int_homolgy.pdf)
 
