@@ -10,7 +10,7 @@ I am a master at Southern University of Science and Technology. My advisor is [Y
 
 **Email:**12333069@mail.sustech.edu.cn
 
-**Resume:** see [here](https://JoZhouFang.github.io/file/CV_ZhouFang.pdf)
+**CV:** see [here](https://JoZhouFang.github.io/file/CV_ZhouFang.pdf)
 
 ## What I learned
 - Category Theory: Infinity category, Simplicial sets, Derived functors, Model categories, Homotopy limits/colimits
