@@ -6,7 +6,6 @@ title: My Talks in Small workshop about several topics about geometry and topolo
 
 #  My Talks in Small workshop about several topics about geometry and topology, 24 summer
 
-It's a small workshop because the participants are only Chenlu Huang and me, held in 24 Summer online. This workshop focus on several topics about geometry and topology.
 
 - **Sheaf theory**[link](https://JoZhouFang.github.io/writtingtalks/file_wt/sheaf.pdf) : Notes for gtm65 chII, it's about presheaves/sheaves, resolution of sheaves, cohomolgy theory and cech cohomology. It's more detailed (so more friendly) than gtm65.
 
