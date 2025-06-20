@@ -29,7 +29,7 @@ I am a master at Southern University of Science and Technology. My advisor is [Y
 
 - Higher Algebra
 - Category Theory
-
+- Homotopy theory
 ---
 
 
