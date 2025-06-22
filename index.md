@@ -6,11 +6,11 @@ layout: page
 
 My name is **Zhou Fang (Jo, 方舟)**.
 
-I am a master at Southern University of Science and Technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/). 
+I am a master's student at Southern University of Science and Technology. My advisor is [Yifei Zhu](https://yifeizhu.github.io/). 
 
 **Email:**12333069@mail.sustech.edu.cn
 
-**CV:** see [here](https://JoZhouFang.github.io/file/CV_ZhouFang.pdf)
+**CV:** see <a href="https://JoZhouFang.github.io/file/CV_ZhouFang.pdf" target="_blank">here</a>
 
 ## What I learned
 - Category Theory: Infinity category, Simplicial sets, Derived functors, Model categories, Homotopy limits/colimits
