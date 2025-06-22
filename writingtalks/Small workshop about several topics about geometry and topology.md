@@ -6,7 +6,7 @@ title: My Talks in Small workshop about several topics about geometry and topolo
 
 #  My Talks in Small workshop about several topics about geometry and topology, 24 summer
 
-- **Sheaf theory**<a href="https://JoZhouFang.github.io/writtingtalks/file_wt/sheaf.pdf" target="_blank">link</a> : Notes for gtm65 chII, it's about presheaves/sheaves, resolution of sheaves, cohomology theory and Cech cohomology. It's more detailed (so more friendly) than gtm65.
+- **Sheaf theory**<a href="https://JoZhouFang.github.io/writingtalks/file_wt/sheaf.pdf" target="_blank">link</a> : Notes for gtm65 chII, it's about presheaves/sheaves, resolution of sheaves, cohomology theory and Cech cohomology. It's more detailed (so more friendly) than gtm65.
 
 - **When do we have k-spectral bundles?**<a href="https://JoZhouFang.github.io/writingtalks/file_wt/kspec.bdl.pdf" target="_blank">link</a>
 
