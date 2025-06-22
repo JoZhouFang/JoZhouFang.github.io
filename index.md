@@ -20,8 +20,11 @@ I am a master's student at Southern University of Science and Technology. My adv
 
 ## Academic Background
 
-- **Sep 2023 - :** Southern University of Science and Technology, advised by [Yifei Zhu](https://yifeizhu.github.io/).
-- **Sep 2019 - Jun 2023:**Southern University of Science and Technology (advised by [Liang Kong](https://www.sustech.edu.cn/zh/faculties/liangkong.html) and [Fei Ye](https://phy.sustech.edu.cn/faculty/detail/id/221.html?lang=zh-cn))
+- **Sep 2023 - :** Southern University of Science and Technology, advised by <a href="https://yifeizhu.github.io/" target="_blank">Yifei Zhu</a>.
+- **Sep 2019 - Jun 2023:**Southern University of Science and Technology (advised by <a href="https://www.sustech.edu.cn/zh/faculties/liangkong.html" target="_blank">Liang Kong</a> and <a href="https://phy.sustech.edu.cn/faculty/detail/id/221.html?lang=zh-cn" target="_blank">Fei Ye</a>)
+
+
+
 
 ---
 
