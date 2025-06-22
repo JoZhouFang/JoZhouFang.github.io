@@ -9,7 +9,7 @@ title: Experiences
 ---
 ## Visiting experiences:
 
-- **YanQi Lake Beijing Institute of mathematical science and technology**, invited by [Hao Zheng](https://ymsc.tsinghua.edu.cn/info/1031/2313.htm) in Oct'23 
+- **YanQi Lake Beijing Institute of mathematical science and technology**, invited by <a href="https://ymsc.tsinghua.edu.cn/info/1031/2313.htm" target="_blank">Hao Zheng</a> in Oct'23 
 
 ---
 
@@ -24,9 +24,3 @@ title: Experiences
 - **Workshop on Stable homotopy groups of spheres: Theories and Computations, where to now**, Tsinghua Sanya International Mathematics Forum, 2025.3.9-3.13
 
 ---
-
-
-
-
-
-

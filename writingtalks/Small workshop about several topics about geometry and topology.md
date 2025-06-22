@@ -6,14 +6,12 @@ title: My Talks in Small workshop about several topics about geometry and topolo
 
 #  My Talks in Small workshop about several topics about geometry and topology, 24 summer
 
-- **Sheaf theory**[link](https://JoZhouFang.github.io/writtingtalks/file_wt/sheaf.pdf) : Notes for gtm65 chII, it's about presheaves/sheaves, resolution of sheaves, cohomology theory and Cech cohomology. It's more detailed (so more friendly) than gtm65.
+- **Sheaf theory**<a href="https://JoZhouFang.github.io/writtingtalks/file_wt/sheaf.pdf" target="_blank">link</a> : Notes for gtm65 chII, it's about presheaves/sheaves, resolution of sheaves, cohomology theory and Cech cohomology. It's more detailed (so more friendly) than gtm65.
 
-- **When do we have k-spectral bundles?**[link](https://JoZhouFang.github.io/writingtalks/file_wt/kspec.bdl.pdf)
+- **When do we have k-spectral bundles?**<a href="https://JoZhouFang.github.io/writingtalks/file_wt/kspec.bdl.pdf" target="_blank">link</a>
 
-- **How to tell a fiber bundle is trivial?**[link](https://JoZhouFang.github.io/writingtalks/file_wt/triv.bdl.pdf)
+- **How to tell a fiber bundle is trivial?**<a href="https://JoZhouFang.github.io/writingtalks/file_wt/triv.bdl.pdf" target="_blank">link</a>
 
-- **Introduction to stratified vector bundles**[link](https://JoZhouFang.github.io/writingtalks/file_wt/str.vecbdl.pdf)
+- **Introduction to stratified vector bundles**<a href="https://JoZhouFang.github.io/writingtalks/file_wt/str.vecbdl.pdf" target="_blank">link</a>
 
-- **Selected topics in algebraic geometry**[link](https://JoZhouFang.github.io/writingtalks/file_wt/AG.pdf) I talk about blow up, smoothness based on my note (the above link).
-
-
+- **Selected topics in algebraic geometry**<a href="https://JoZhouFang.github.io/writingtalks/file_wt/AG.pdf" target="_blank">link</a> I talk about blow up, smoothness based on my note (the above link).
