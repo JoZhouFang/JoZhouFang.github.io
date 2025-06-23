@@ -2,11 +2,30 @@
 layout: page
 title: ZhouFang|Math
 ---
+<a href="https://jozhoufang.github.io//" class="nav-link1">ABOUT ME</a>
+<a href="https://jozhoufang.github.io//" class="nav-link2">TALKS/WRITINGS</a>
+<a href="https://jozhoufang.github.io//" class="nav-link3">EXPERIENCES</a>
 <style>
+
   a {
     color: #e63946 !important;
     text-decoration: underline dashed !important;
   }
+
+  a.nav-link1 {
+  color: inherit !important;  /* 恢复成默认颜色 */
+  text-decoration: none !important;
+}
+
+ a.nav-link2 {
+  color: inherit !important;  /* 恢复成默认颜色 */
+  text-decoration: none !important;
+}
+
+ a.nav-link3 {
+  color: inherit !important;  /* 恢复成默认颜色 */
+  text-decoration: none !important;
+}
 </style>
 
 # About Me
