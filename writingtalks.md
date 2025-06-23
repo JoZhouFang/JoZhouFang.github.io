@@ -112,3 +112,16 @@ As a teaching assistant at the university, I was required to **give a weekly cla
 
 - **Linear algebra** (fall 2024), teaching resources are <a href="https://JoZhouFang.github.io/experences/la" target="_blank">here</a>
 
+
+
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
