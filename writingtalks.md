@@ -67,14 +67,43 @@ title: Writing/Talks
 
 ## Handwritten notes
 
-- **Notes on stable homotopy theory:**<a href="https://JoZhouFang.github.io/file/stb.pdf" target="_blank">link</a> Introduce some basic definition in stable homotopy theory such as spectrum, stable homology theory, stable homotopy category and so on, which also appear in many other topics. The main reference is <a href="https://services.math.duke.edu/~kgw/8803_Stable" target="_blank">link</a>
+<ul>
+  <li>
+    <strong>Notes on stable homotopy theory:</strong>
+    <a href="https://JoZhouFang.github.io/file/stb.pdf" target="_blank">link</a>
+    <details>
+      <summary>Show more</summary>
+      Introduce some basic definition in stable homotopy theory such as spectrum, stable homology theory, stable homotopy category and so on, which also appear in many other topics. The main reference is <a href="https://services.math.duke.edu/~kgw/8803_Stable" target="_blank">link</a>
+    </details>
+  </li>
 
-- **Notes on homotopy theory:**<a href="https://JoZhouFang.github.io/file/homotopy.pdf" target="_blank">link</a> The main reference of this note is Hatcher's algebraic topology and ch1,2 for this <a href="https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf" target="_blank">lecture notes</a>.
+  <li>
+    <strong>Notes on homotopy theory:</strong>
+    <a href="https://JoZhouFang.github.io/file/homotopy.pdf" target="_blank">link</a>
+    <details>
+      <summary>Show more</summary>
+      The main reference of this note is Hatcher's algebraic topology and ch1,2 for this <a href="https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf" target="_blank">lecture notes</a>.
+    </details>
+  </li>
 
-- **Notes on fiber bundles:**<a href="https://JoZhouFang.github.io/file/bdl.pdf" target="_blank">link</a> It introduces fiber bundles, principal bundles, classification of principal bundles and characteristic classes including Chern classes, Stiefel -Whitney classes, and Pontrjagin classes. It's the note for ch3,4 of this <a href="https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf" target="_blank">lecture notes</a>.
+  <li>
+    <strong>Notes on fiber bundles:</strong>
+    <a href="https://JoZhouFang.github.io/file/bdl.pdf" target="_blank">link</a>
+    <details>
+      <summary>Show more</summary>
+      It introduces fiber bundles, principal bundles, classification of principal bundles and characteristic classes including Chern classes, Stiefel -Whitney classes, and Pontrjagin classes. It's the note for ch3,4 of this <a href="https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf" target="_blank">lecture notes</a>.
+    </details>
+  </li>
 
-- **Differential geometry of vector bundles(Ch III in Differential Analysis on Complex manifolds):**<a href="https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf" target="_blank">link</a> It introduces connections, curvatures and Chern classes.
-
+  <li>
+    <strong>Differential geometry of vector bundles (Ch III in Differential Analysis on Complex manifolds):</strong>
+    <a href="https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf" target="_blank">link</a>
+    <details>
+      <summary>Show more</summary>
+      It introduces connections, curvatures and Chern classes.
+    </details>
+  </li>
+</ul>
 
 ## Teaching Experience:
 As a teaching assistant at the university, I was required to **give a weekly class** to help students with review and academic enrichment beyond the regular curriculum.
