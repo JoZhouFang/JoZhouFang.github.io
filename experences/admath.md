@@ -4,7 +4,11 @@ permalink: /experences/admath/index.html
 title: Calculus I
 ---
 <style>
-  a {
+  /* 只针对内容区的链接生效（避免主题特殊处理） */
+  main a, 
+  article a, 
+  section a, 
+  div a {
     color: #e63946 !important;
     text-decoration: underline dashed !important;
   }
