@@ -22,7 +22,7 @@ title: Experiences
 ---
 ## Visiting experiences:
 
-- **Beijing Yanqi Lake Institute of Applied Mathematics**, invited by <a href="https://ymsc.tsinghua.edu.cn/info/1031/2313.htm">Hao Zheng</a> in Oct'23, engaged in discussions on higher category theory and topological order
+- **Beijing Yanqi Lake Institute of Applied Mathematics**, invited by <a href="https://ymsc.tsinghua.edu.cn/info/1031/2313.htm" target="_blank"><span style="color: #e63946;">Hao Zheng</span></a> in Oct'23, engaged in discussions on higher category theory and topological order
 
 ---
 
