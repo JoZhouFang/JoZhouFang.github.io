@@ -1,11 +1,7 @@
-
 ---
 layout: page
-permalink: /
-title: ZhouFang|Math
-
+title: Zhou Fang|Math
 ---
-
 
 # About Me
 
@@ -34,5 +30,3 @@ I am a master's student at Southern University of Science and Technology (SUSTec
 - Higher Algebra
 - Category Theory
 - Homotopy Theory
-
----
