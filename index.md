@@ -2,7 +2,13 @@
 layout: page
 title: Zhou Fang|Math
 ---
-
+<style>
+  /* 所有链接默认是蓝色且实线下划线 */
+  a {
+    color: #007bff;
+    text-decoration: underline;
+  }
+</style>
 # About Me
 
 My name is **Zhou Fang (Jo, 方舟)**.
