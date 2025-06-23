@@ -5,7 +5,7 @@ title: Writing/Talks
 ---
 
 <style>
-  /* ✅ 1. 所有 a 链接显示为蓝色（覆盖自带主题） */
+  /* ✅ 1. 所有 a 链接显示为红色（覆盖自带主题） */
   a {
     color: #e63946;  
     text-decoration: underline;
