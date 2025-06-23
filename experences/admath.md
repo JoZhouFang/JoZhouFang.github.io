@@ -1,10 +1,17 @@
 ---
 layout: page
 permalink: /experences/admath/index.html
-title: Advanced mathematics
+title: Calculus I
 ---
+<style>
+  a {
+    color: #e63946 !important;
+    text-decoration: underline dashed !important;
+  }
+</style>
 
-# Teaching assistant for Advanced mathematics I
+
+# Teaching assistant for Calculus I
 
 I am teaching assistant for advanced mathematics I in 23 fall. I list my resoures here.
 

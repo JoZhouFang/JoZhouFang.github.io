@@ -4,8 +4,8 @@ title: Zhou Fang|Math
 ---
 <style>
   a {
-    color: #e63946;           /* 温和显眼的浅红色 */
-    text-decoration: underline dashed;
+    color: #e63946 !important;
+    text-decoration: underline dashed !important;
   }
 </style>
 

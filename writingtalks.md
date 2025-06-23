@@ -5,26 +5,12 @@ title: Writing/Talks
 ---
 
 <style>
-  /* 所有链接默认是蓝色且实线下划线 */
   a {
-    color: #007bff;
-    text-decoration: underline;
-  }
-
-  /* 所有 summary (Abstract) 是红色 + 虚线下划线 */
-  summary {
-    color: red;
-    text-decoration: underline dashed;
-    cursor: pointer;
-  }
-
-  /* 特别选中 Teaching Experience 里的两个 "here" 链接 */
-  li a[href*="admath"],
-  li a[href*="la"] {
-    color: red;
-    text-decoration: underline dashed;
+    color: #e63946 !important;
+    text-decoration: underline dashed !important;
   }
 </style>
+
 
 ## Talks
 
@@ -129,7 +115,7 @@ title: Writing/Talks
 ## Teaching Experience:
 As a teaching assistant at the university, I was required to **give a weekly class** to help students with review and academic enrichment beyond the regular curriculum.
 
-- **Advanced mathematics** (fall 2023), teaching resources are <a href="https://JoZhouFang.github.io/experences/admath" target="_blank">here</a>
+- **Calculus I** (fall 2023), teaching resources are <a href="https://JoZhouFang.github.io/experences/admath" target="_blank">here</a>
 
 - **Linear algebra** (fall 2024), teaching resources are <a href="https://JoZhouFang.github.io/experences/la" target="_blank">here</a>
 

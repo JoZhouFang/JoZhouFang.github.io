@@ -3,6 +3,13 @@ layout: page
 permalink: /experences/la/index.html
 title: Linear algebra
 ---
+<style>
+  a {
+    color: #e63946 !important;
+    text-decoration: underline dashed !important;
+  }
+</style>
+
 
 # Teaching assistant for Linear algebra
 

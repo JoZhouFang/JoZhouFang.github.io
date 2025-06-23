@@ -4,10 +4,9 @@ permalink: /writingtalks/Small workshop about several topics about geometry and 
 title: My Talks in Small workshop about several topics about geometry and topology, 24 summer
 ---
 <style>
-  /* 所有链接默认是蓝色且实线下划线 */
   a {
-    color: #007bff;
-    text-decoration: underline;
+    color: #e63946;           /* 温和显眼的浅红色 */
+    text-decoration: underline dashed;
   }
 </style>
 #  My Talks in Small workshop about several topics about geometry and topology, 24 summer
