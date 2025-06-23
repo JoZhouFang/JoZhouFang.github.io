@@ -21,7 +21,7 @@ title: Zhou Fang|Math
 
 My name is **Zhou Fang (Jo, 方舟)**.
 
-I am a master's student at Southern University of Science and Technology (SUSTech). My advisor is <a href="https://yifeizhu.github.io/" target="_blank"><span style="color: #e63946;">Yifei Zhu</span></a>. 
+I am a master's student at Southern University of Science and Technology (SUSTech). My advisor is <a href="https://yifeizhu.github.io/" target="_blank" style="color: #e63946;">Yifei Zhu</a> 
 
 **Email:** <a href="mailto:fangz2023@mail.sustech.edu.cn">fangz2023@mail.sustech.edu.cn</a>
 
