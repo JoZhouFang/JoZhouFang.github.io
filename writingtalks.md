@@ -26,9 +26,9 @@ title: Writing/Talks
 
 ## Organized Workshops
 
-- **Workshop on infinite-categories**, fall 2023, organized by Yunhao Sun and me
+- **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me
 
-- **<a href="https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology" target="_blank">Small workshop on selected topics in geometry and topology</a>**, summer 2024, organized by Chenlu Huang and me.
+- **<a href="https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology" target="_blank">Small workshop on selected topics in geometry and topology</a>**, summer 2024, organized by <a href="mailto:12432018@mail.sustech.edu.cn">Chenlu Huang</a> and me.
 
 
 ## Tex'ed Writings/Notes
