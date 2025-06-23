@@ -6,9 +6,9 @@ layout: page
 
 My name is **Zhou Fang (Jo, 方舟)**.
 
-I am a master's student at Southern University of Science and Technology. My advisor is <a href="https://yifeizhu.github.io/" target="_blank">Yifei Zhu</a>. 
+I am a master's student at Southern University of Science and Technology (SUSTech). My advisor is <a href="https://yifeizhu.github.io/" target="_blank">Yifei Zhu</a>. 
 
-**Email:**12333069@mail.sustech.edu.cn
+**Email:** <a href="mailto:fangz2023@mail.sustech.edu.cn">fangz2023@mail.sustech.edu.cn</a>
 
 **CV:** see <a href="https://JoZhouFang.github.io/file/CV_ZhouFang.pdf" target="_blank">here</a>
 
