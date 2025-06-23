@@ -1,8 +1,6 @@
 ---
 layout: page
-<head>
-  <title>Zhou Fang|Math</title>
-</head>
+title: ZhouFang|Math
 ---
 <style>
   a {
