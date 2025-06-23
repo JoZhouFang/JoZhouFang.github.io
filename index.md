@@ -3,12 +3,14 @@ title: ZhouFang|Math
 ---
 
 <style>
-
   a {
     color: #e63946 !important;
     text-decoration: underline dashed !important;
   }
-
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
 </style>
 
 # About Me
