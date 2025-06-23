@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Zhou Fang|Math
 ---
 
 # About Me
