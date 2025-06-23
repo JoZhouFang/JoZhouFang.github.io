@@ -5,17 +5,24 @@ title: Writing/Talks
 ---
 
 <style>
-  /* 1. 所有 a 链接显示为蓝色（覆盖自带主题） */
+  /* 所有链接默认是蓝色且实线下划线 */
   a {
-    color: #007bff;  /* Bootstrap 经典链接蓝 */
+    color: #007bff;
     text-decoration: underline;
   }
 
-  /* 2. 所有 details summary（即 Abstract）样式：红色+虚线下划线 */
+  /* 所有 summary (Abstract) 是红色 + 虚线下划线 */
   summary {
     color: red;
     text-decoration: underline dashed;
-    cursor: pointer;  /* 鼠标移上去显示小手，提醒可点 */
+    cursor: pointer;
+  }
+
+  /* 特别选中 Teaching Experience 里的两个 "here" 链接 */
+  li a[href*="admath"],
+  li a[href*="la"] {
+    color: red;
+    text-decoration: underline dashed;
   }
 </style>
 
