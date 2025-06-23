@@ -4,13 +4,14 @@ title: ZhouFang|Math
 ---
 
 <style>
-
-  a {
+  /* 只针对.content内部的链接生效 */
+  .content a {
     color: #e63946 !important;
     text-decoration: underline dashed !important;
   }
-
 </style>
+
+<div class="content">
 
 # About Me
 
@@ -21,7 +22,6 @@ I am a master's student at Southern University of Science and Technology (SUSTec
 **Email:** <a href="mailto:fangz2023@mail.sustech.edu.cn">fangz2023@mail.sustech.edu.cn</a>
 
 **CV:** see <a href="https://JoZhouFang.github.io/file/CV_ZhouFang.pdf" target="_blank">here</a>
-
 
 ## Academic Background
 
@@ -42,5 +42,4 @@ I am a master's student at Southern University of Science and Technology (SUSTec
 
 ---
 
-
-
+</div>
