@@ -3,7 +3,13 @@ layout: page
 permalink: /writingtalks/Small workshop about several topics about geometry and topology/index.html
 title: My Talks in Small workshop about several topics about geometry and topology, 24 summer
 ---
-
+<style>
+  /* 所有链接默认是蓝色且实线下划线 */
+  a {
+    color: #007bff;
+    text-decoration: underline;
+  }
+</style>
 #  My Talks in Small workshop about several topics about geometry and topology, 24 summer
 
 - **Sheaf theory**<a href="https://JoZhouFang.github.io/writingtalks/file_wt/sheaf.pdf" target="_blank">link</a> : Notes for gtm65 chII, it's about presheaves/sheaves, resolution of sheaves, cohomology theory and Cech cohomology. It's more detailed (so more friendly) than gtm65.

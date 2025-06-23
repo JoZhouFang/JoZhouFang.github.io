@@ -3,7 +3,13 @@ layout: page
 permalink: /experences/index.html
 title: Experiences
 ---
-
+<style>
+  /* 所有链接默认是蓝色且实线下划线 */
+  a {
+    color: #007bff;
+    text-decoration: underline;
+  }
+</style>
 # Experiences
 
 ---
