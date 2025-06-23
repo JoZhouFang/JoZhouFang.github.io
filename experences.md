@@ -3,12 +3,6 @@ layout: page
 permalink: /experences/index.html
 title: Experiences
 ---
-<style>
-  a {
-    color: #e63946 !important;
-    text-decoration: underline dashed !important;
-  }
-</style>
 
 # Experiences
 

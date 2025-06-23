@@ -2,8 +2,6 @@ layout: page
 title: ZhouFang|Math
 ---
 
-
-
 # About Me
 
 My name is **Zhou Fang (Jo, 方舟)**.
