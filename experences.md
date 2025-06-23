@@ -22,11 +22,11 @@ title: Experiences
 ---
 ## Visiting experiences:
 
-- **Beijing Yanqi Lake Institute of Applied Mathematics**, invited by <a href="https://ymsc.tsinghua.edu.cn/info/1031/2313.htm" target="_blank">Hao Zheng</a> in Oct'23, engaged in discussions on higher category theory and topological order
+- **Beijing Yanqi Lake Institute of Applied Mathematics**, invited by <a href="https://ymsc.tsinghua.edu.cn/info/1031/2313.htm">Hao Zheng</a> in Oct'23, engaged in discussions on higher category theory and topological order
 
 ---
 
-## Conferences Attended:
+## Academic conference participation:
 
 - **International Workshop on Algebraic Topology 2024: Motivic Stable Homotopy Theory**, Fudan University, 2024.6.23-6.27
 

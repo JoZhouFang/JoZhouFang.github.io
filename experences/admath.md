@@ -21,7 +21,7 @@ title: Calculus I
 
 # Teaching assistant for Calculus I
 
-I am teaching assistant for advanced mathematics I in 23 fall. I list my resoures here.
+I am teaching assistant for advanced mathematics I in fall 2023. I list my resoures here.
 
 ## Handout
 - [week1](https://JoZhouFang.github.io/experences/files_ex/admath/handout_wk1.pdf)
