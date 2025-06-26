@@ -80,7 +80,7 @@ title: Writing/Talks
   </li>
 </ul>
 
-## Handwritten notes
+## Handwritten Notes
 
 <ul>
   <li>
