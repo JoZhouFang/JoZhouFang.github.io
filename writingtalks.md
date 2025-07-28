@@ -22,8 +22,7 @@ title: Writing/Talks
 ## Preprints
 <ul>
   <li>
-
-  - **<a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
+- **<a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
        eigenvalues of parametrized Hamiltonians</a>**
     <details>
       <summary>Abstract</summary>
@@ -55,7 +54,6 @@ title: Writing/Talks
 
 <ul>
   <li>
-  
   - **<a href="https://JoZhouFang.github.io/file/homlim.pdf" target="_blank">Homotopy limits and colimits</a>**
     <details>
       <summary>Abstract</summary>
@@ -64,7 +62,6 @@ title: Writing/Talks
   </li>
 
   <li>
-   
    - **<a href="https://JoZhouFang.github.io/file/Phy.pic.pdf" target="_blank">Physical picture of tensor products and direct sum</a>**
     
     <details>
@@ -76,7 +73,6 @@ title: Writing/Talks
   </li>
 
   <li>
-   
    - **<a href="https://JoZhouFang.github.io/file/visual.grp.pdf" target="_blank">Visualization for $\pi_1(SO(3)/D_2)$ and rotation of eigenvectors</a>**
     
     <details>
@@ -86,7 +82,6 @@ title: Writing/Talks
   </li>
 
   <li>
-   
    - **<a href="https://JoZhouFang.github.io/file/Higgs.bdl.pdf" target="_blank">Notes on Higgs bundles</a>**
     
     <details>
@@ -100,7 +95,6 @@ title: Writing/Talks
 
 <ul>
   <li>
-
   - **<a href="https://JoZhouFang.github.io/file/stb.pdf" target="_blank">Notes on stable homotopy theory</a>**
     
     <details>
@@ -110,7 +104,6 @@ title: Writing/Talks
   </li>
 
   <li>
-   
    - **<a href="https://JoZhouFang.github.io/file/homotopy.pdf" target="_blank">Notes on homotopy theory</a>**
     
     <details>
