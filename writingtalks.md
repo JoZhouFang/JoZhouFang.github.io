@@ -123,8 +123,8 @@ title: Writing/Talks
 
 As a teaching assistant at the university, I was required to **give a weekly class** to help students with review and academic enrichment beyond the regular curriculum.
 
- - **Calculus I** (fall 2023), teaching resources are <a href="https://JoZhouFang.github.io/experences/admath" target="_blank"><span style="color: #e63946;">here</span></a> </li>
-- **Linear algebra** (fall 2024), teaching resources are <a href="https://JoZhouFang.github.io/experences/la" target="_blank"><span style="color: #e63946;">here</span></a> </li>
+ - **Calculus I** (fall 2023), teaching resources are <a href="https://JoZhouFang.github.io/experences/admath" target="_blank"><span style="color: #e63946;">here</span></a>
+- **Linear algebra** (fall 2024), teaching resources are <a href="https://JoZhouFang.github.io/experences/la" target="_blank"><span style="color: #e63946;">here</span></a>
 
 
 <script>
