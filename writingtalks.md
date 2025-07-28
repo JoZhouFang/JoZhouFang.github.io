@@ -22,8 +22,9 @@ title: Writing/Talks
 ## Preprints
 
 <li>
-    <strong><a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
-eigenvalues of parametrized Hamiltonians</a></strong>
+
+- **<a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
+eigenvalues of parametrized Hamiltonians</a>**
     <details>
       <summary>Abstract</summary>
       In this article we discuss the topological classification of configuration of eigen vectors and eigenvalues of 2-band and 3-band Hermitian and pseudo-Hermitian Hamiltonian. Besides, this article computes intersection homology of different parameter spaces to study the topology of the parameter space, which is useful for further works.
@@ -33,7 +34,7 @@ eigenvalues of parametrized Hamiltonians</a></strong>
 
 ## Talks
 
- - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of Sustech, April 18, 2025,
+ - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of Sustech, April 18, 2025
 
  - **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of Sustech, May 23, 2025 
 
