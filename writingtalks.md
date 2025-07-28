@@ -20,17 +20,17 @@ title: Writing/Talks
 </style>
 
 ## Preprints
+<ul>
+  <li>
 
-<li>
-
-- **<a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
-eigenvalues of parametrized Hamiltonians</a>**
+  - **<a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
+       eigenvalues of parametrized Hamiltonians</a>**
     <details>
       <summary>Abstract</summary>
       In this article we discuss the topological classification of configuration of eigen vectors and eigenvalues of 2-band and 3-band Hermitian and pseudo-Hermitian Hamiltonian. Besides, this article computes intersection homology of different parameter spaces to study the topology of the parameter space, which is useful for further works.
     </details>
   </li>
-
+<ul>
 
 ## Talks
 
@@ -55,7 +55,7 @@ eigenvalues of parametrized Hamiltonians</a>**
 
 <ul>
   <li>
-
+  
   - **<a href="https://JoZhouFang.github.io/file/homlim.pdf" target="_blank">Homotopy limits and colimits</a>**
     <details>
       <summary>Abstract</summary>
@@ -64,7 +64,7 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
-
+   
    - **<a href="https://JoZhouFang.github.io/file/Phy.pic.pdf" target="_blank">Physical picture of tensor products and direct sum</a>**
     
     <details>
@@ -76,6 +76,7 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
+   
    - **<a href="https://JoZhouFang.github.io/file/visual.grp.pdf" target="_blank">Visualization for $\pi_1(SO(3)/D_2)$ and rotation of eigenvectors</a>**
     
     <details>
@@ -85,6 +86,7 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
+   
    - **<a href="https://JoZhouFang.github.io/file/Higgs.bdl.pdf" target="_blank">Notes on Higgs bundles</a>**
     
     <details>
