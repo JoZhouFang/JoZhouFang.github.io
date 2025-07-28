@@ -48,14 +48,15 @@ eigenvalues of parametrized Hamiltonians</a>**
 
 - **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me
 
-- **<a href="https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology" target="_blank">Small workshop on selected topics in geometry and topology</a>**, summer 2024, organized by <a href="mailto:12432018@mail.sustech.edu.cn">Chenlu Huang</a> and me.
+- **<a href="https://JoZhouFang.github.io/writingtalks/Small workshop about several topics about geometry and topology" target="_blank">Small workshop on selected topics in geometry and topology</a>**, summer 2024, organized by <a href="mailto:12432018@mail.sustech.edu.cn">Chenlu Huang</a> and me
 
 
 ## Tex'ed Writings/Notes
 
 <ul>
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/homlim.pdf" target="_blank">Homotopy limits and colimits</a></strong>
+
+  - **<a href="https://JoZhouFang.github.io/file/homlim.pdf" target="_blank">Homotopy limits and colimits</a>**
     <details>
       <summary>Abstract</summary>
       I introduced homotopy limits and colimits via derived functors.
@@ -63,7 +64,8 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/Phy.pic.pdf" target="_blank">Physical picture of tensor products and direct sum</a></strong>
+
+   - **<a href="https://JoZhouFang.github.io/file/Phy.pic.pdf" target="_blank">Physical picture of tensor products and direct sum</a>**
     
     <details>
       <summary>Abstract</summary>
@@ -74,7 +76,7 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/visual.grp.pdf" target="_blank">Visualization for $\pi_1(SO(3)/D_2)$ and rotation of eigenvectors</a></strong>
+   - **<a href="https://JoZhouFang.github.io/file/visual.grp.pdf" target="_blank">Visualization for $\pi_1(SO(3)/D_2)$ and rotation of eigenvectors</a>**
     
     <details>
       <summary>Abstract</summary>
@@ -83,7 +85,7 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/Higgs.bdl.pdf" target="_blank">Notes on Higgs bundles</a></strong>
+   - **<a href="https://JoZhouFang.github.io/file/Higgs.bdl.pdf" target="_blank">Notes on Higgs bundles</a>**
     
     <details>
       <summary>Abstract</summary>
@@ -96,7 +98,8 @@ eigenvalues of parametrized Hamiltonians</a>**
 
 <ul>
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/stb.pdf" target="_blank">Notes on stable homotopy theory</a></strong>
+
+  - **<a href="https://JoZhouFang.github.io/file/stb.pdf" target="_blank">Notes on stable homotopy theory</a>**
     
     <details>
       <summary>Abstract</summary>
@@ -105,7 +108,8 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/homotopy.pdf" target="_blank">Notes on homotopy theory</a></strong>
+   
+   - **<a href="https://JoZhouFang.github.io/file/homotopy.pdf" target="_blank">Notes on homotopy theory</a>**
     
     <details>
       <summary>Abstract</summary>
@@ -114,7 +118,7 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/bdl.pdf" target="_blank">Notes on fiber bundles</a></strong>
+  - **<a href="https://JoZhouFang.github.io/file/bdl.pdf" target="_blank">Notes on fiber bundles</a>**
     
     <details>
       <summary>Abstract</summary>
@@ -123,7 +127,8 @@ eigenvalues of parametrized Hamiltonians</a>**
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf" target="_blank">Differential geometry of vector bundles (Ch III in Differential Analysis on Complex manifolds)</a></strong>
+   
+   - **<a href="https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf" target="_blank">Differential geometry of vector bundles (Ch III in Differential Analysis on Complex manifolds)</a>**
     
     <details>
       <summary>Abstract</summary>
