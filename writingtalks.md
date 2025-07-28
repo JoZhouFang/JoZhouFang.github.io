@@ -36,7 +36,7 @@ title: Writing/Talks
 
 
  - **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me 
- 
+
  - **<a href="https://JoZhouFang.github.io/writingtalks/Small%20workshop%20about%20several%20topics%20about%20geometry%20and%20topology" target="_blank">Small workshop on selected topics in geometry and topology</a>**, summer 2024, organized by <a href="mailto:12432018@mail.sustech.edu.cn">Chenlu Huang</a> and me 
 
 
@@ -44,7 +44,7 @@ title: Writing/Talks
 
 <ul>
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/homlim.pdf" target="_blank">Homotopy limits and colimits</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/homlim.pdf" target="_blank">Homotopy limits and colimits</a></strong>
     <details>
       <summary>Abstract</summary>
       I introduced homotopy limits and colimits via derived functors.
@@ -52,7 +52,7 @@ title: Writing/Talks
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/Phy.pic.pdf" target="_blank">Physical picture of tensor products and direct sum</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/Phy.pic.pdf" target="_blank">Physical picture of tensor products and direct sum</a></strong>
     <details>
       <summary>Abstract</summary>
       Tensor products and direct sums of vector spaces are abstract concepts
@@ -62,7 +62,7 @@ title: Writing/Talks
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/visual.grp.pdf" target="_blank">Visualization for $\pi_1(SO(3)/D_2)$ and rotation of eigenvectors</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/visual.grp.pdf" target="_blank">Visualization for $\pi_1(SO(3)/D_2)$ and rotation of eigenvectors</a></strong>
     <details>
       <summary>Abstract</summary>
       In this article we will visualize $SO(3)/D2$ and $\pi_1(SO(3)/D_2)$ to obtain a nice picture describing rotation of eigenframes.
@@ -70,7 +70,7 @@ title: Writing/Talks
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/Higgs.bdl.pdf" target="_blank">Notes on Higgs bundles</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/Higgs.bdl.pdf" target="_blank">Notes on Higgs bundles</a></strong>
     <details>
       <summary>Abstract</summary>
       Introduce definition of Higgs bundles and non-abelian Hodge correspondence.
@@ -82,7 +82,7 @@ title: Writing/Talks
 
 <ul>
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/stb.pdf" target="_blank">Notes on stable homotopy theory</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/stb.pdf" target="_blank">Notes on stable homotopy theory</a></strong>
     <details>
       <summary>Abstract</summary>
       Introduce some basic definition in stable homotopy theory such as spectrum, stable homology theory, stable homotopy category and so on, which also appear in many other topics. The main reference is <a href="https://services.math.duke.edu/~kgw/8803_Stable" target="_blank">link</a>
@@ -90,7 +90,7 @@ title: Writing/Talks
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/homotopy.pdf" target="_blank">Notes on homotopy theory</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/homotopy.pdf" target="_blank">Notes on homotopy theory</a></strong>
     <details>
       <summary>Abstract</summary>
       The main reference of this note is Hatcher's algebraic topology and ch1,2 for this <a href="https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf" target="_blank">lecture notes</a>.
@@ -98,7 +98,7 @@ title: Writing/Talks
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/bdl.pdf" target="_blank">Notes on fiber bundles</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/bdl.pdf" target="_blank">Notes on fiber bundles</a></strong>
     <details>
       <summary>Abstract</summary>
       It introduces fiber bundles, principal bundles, classification of principal bundles and characteristic classes including Chern classes, Stiefel -Whitney classes, and Pontrjagin classes. It's the note for ch3,4 of this <a href="https://www.uio.no/studier/emner/matnat/math/MAT4540/h23/754notes-1.pdf" target="_blank">lecture notes</a>.
@@ -106,7 +106,7 @@ title: Writing/Talks
   </li>
 
   <li>
-    <strong><a href="https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf" target="_blank">Differential geometry of vector bundles (Ch III in Differential Analysis on Complex manifolds)</a><strong>
+    <strong><a href="https://JoZhouFang.github.io/file/Diff. geo.vec.bdl.pdf" target="_blank">Differential geometry of vector bundles (Ch III in Differential Analysis on Complex manifolds)</a></strong>
     <details>
       <summary>Abstract</summary>
       It introduces connections, curvatures and Chern classes.
