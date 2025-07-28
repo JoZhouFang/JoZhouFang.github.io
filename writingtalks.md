@@ -31,12 +31,11 @@ title: Writing/Talks
 
 ## Talks
 
-
-  - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of Sustech, April 18, 2025 </li>
-  - **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of Sustech, May 23, 2025 </li>
-  - **<a href="https://JoZhouFang.github.io/file/int_homolgy.pdf" target="_blank">A general introduction to intersection homology</a>**, Sustech 2nd Mathematics workshop, November 1, 2025 </li>
-   - **<a href="https://JoZhouFang.github.io/file/bands_Zhou.pdf" target="_blank">Energy bands and Higgs bundles</a>**, Workshop on computer-assisted research in geometry and topology, October 9, 2024 Kunming Tianyuan Mathematics Research Center </li>
- - **<a href="https://JoZhouFang.github.io/file/topo_sin.pdf" target="_blank">Topology and geometry of singularities</a>**, Graduated topology seminar of Sustech, May 21,2024, joint with Wenhui Yang and Chenlu Huang </li>
+  - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of Sustech, April 18, 2025 
+  - **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of Sustech, May 23, 2025 
+  - **<a href="https://JoZhouFang.github.io/file/int_homolgy.pdf" target="_blank">A general introduction to intersection homology</a>**, Sustech 2nd Mathematics workshop, November 1, 2025 
+   - **<a href="https://JoZhouFang.github.io/file/bands_Zhou.pdf" target="_blank">Energy bands and Higgs bundles</a>**, Workshop on computer-assisted research in geometry and topology, October 9, 2024 Kunming Tianyuan Mathematics Research Center 
+  - **<a href="https://JoZhouFang.github.io/file/topo_sin.pdf" target="_blank">Topology and geometry of singularities</a>**, Graduated topology seminar of Sustech, May 21,2024, joint with Wenhui Yang and Chenlu Huang 
 
 
 ## Organized Workshops
