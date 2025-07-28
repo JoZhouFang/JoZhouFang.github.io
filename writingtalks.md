@@ -27,7 +27,7 @@ title: Writing/Talks
        eigenvalues of parametrized Hamiltonians</a>**
     <details>
       <summary>Abstract</summary>
-      In this article we discuss the topological classification of configuration of eigen vectors and eigenvalues of 2-band and 3-band Hermitian and pseudo-Hermitian Hamiltonian. Besides, this article computes intersection homology of different parameter spaces to study the topology of the parameter space, which is useful for further works
+      In this article we discuss the topological classification of configuration of eigen vectors and eigenvalues of 2-band and 3-band Hermitian and pseudo-Hermitian Hamiltonian. Besides, this article computes intersection homology of different parameter spaces to study the topology of the parameter space, which is useful for further works.
     </details>
   </li>
 <ul>
