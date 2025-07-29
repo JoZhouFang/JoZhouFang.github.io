@@ -18,10 +18,16 @@ title: Writing/Talks
 </style>
 
 ## Preprints
-
-- **<a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
-       eigenvalues of parametrized Hamiltonians</a>**
-
+<ul>
+  <li>
+ <strong><a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and
+       eigenvalues of parametrized Hamiltonians</a></strong>
+       <details>
+      <summary>Abstract</summary>
+        In this article we discuss the topological classification of configuration of eigen vectors and eigenvalues of 2-band and 3-band Hermitian and pseudo-Hermitian Hamiltonian. Besides, this article computes intersection homology of different parameter spaces to study the topology of the parameter space, which is useful for further works.
+    </details>
+ </li>
+</ul>
 
 ## Talks
 
