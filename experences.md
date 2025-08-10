@@ -37,3 +37,23 @@ title: Experiences
 - **Workshop on Stable homotopy groups of spheres: Theories and Computations, where to now**, Tsinghua Sanya International Mathematics Forum, 2025.3.9-3.13
 
 ---
+
+## Teaching Experience:
+
+As a teaching assistant at the university, I was required to **give a weekly class** to help students with review and academic enrichment beyond the regular curriculum.
+
+ - **Calculus I** (fall 2023), teaching resources are <a href="https://JoZhouFang.github.io/experences/admath" target="_blank"><span style="color: #e63946;">here</span></a>
+- **Linear algebra** (fall 2024), teaching resources are <a href="https://JoZhouFang.github.io/experences/la" target="_blank"><span style="color: #e63946;">here</span></a>
+
+
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
