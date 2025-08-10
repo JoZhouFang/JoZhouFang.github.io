@@ -17,8 +17,6 @@ title: Writing/Talks
   }
 </style>
 
-**This page is being modified today**
-
 The work I done can be divided into three parts: 
 - Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians
 - Homotopy theory
@@ -73,7 +71,7 @@ The related works are as follwoing:
       It introduces connections, curvatures and Chern classes.
     </details>
   </li>
-  
+
   <li>
     <strong><a href="https://JoZhouFang.github.io/file/Phy.pic.pdf" target="_blank">Physical picture of tensor products and direct sum</a></strong>
     <details>
