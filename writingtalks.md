@@ -22,7 +22,7 @@ The work I do can be divided into three parts:
 - Homotopy theory
 - Infinity categories
 
-## Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians
+## <p style="color: yellow;">Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians</p>
 
 Here is the preprint:
 <ul>
@@ -83,7 +83,7 @@ The related works are as follows:
  </li>
 </ul>
 
-## Homotopy theory
+## <p style="color: yellow;">Homotopy theory</p>
 
 ### Talks
 - **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of SUSTech, May 23, 2025 
@@ -116,7 +116,7 @@ The related works are as follows:
  </li>
 </ul>
 
-## Infinity categories
+## <p style="color: yellow;">Infinity categories</p>
 
 ### Talks
  - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of SUSTech, April 18, 2025 

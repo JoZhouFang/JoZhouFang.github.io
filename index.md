@@ -41,6 +41,6 @@ I am a master's student at Southern University of Science and Technology (SUSTec
 
 ## Research Interests
 
-- Higher Algebra
 - Category Theory
 - Homotopy Theory
+- Topology in Physics
