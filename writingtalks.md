@@ -22,9 +22,9 @@ The work I do can be divided into three parts:
 - Homotopy theory
 - Infinity categories
 
-## Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians
+## 1.Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians
 
-Here is the preprint:
+### 1.1 Preprint
 <ul>
  <li>
  <strong><a href="https://JoZhouFang.github.io/file/topo_phy.pdf" target="_blank">Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians</a></strong>
@@ -37,15 +37,15 @@ Here is the preprint:
 
 The related works are as follows: 
 
-### Talks
+### 1.2.1 Talks
  - **<a href="https://JoZhouFang.github.io/file/int_homolgy.pdf" target="_blank">A general introduction to intersection homology</a>**, SUSTech 2nd Mathematics workshop, November 1, 2025 
 - **<a href="https://JoZhouFang.github.io/file/bands_Zhou.pdf" target="_blank">Energy bands and Higgs bundles</a>**, Workshop on computer-assisted research in geometry and topology, October 9, 2024, Kunming Tianyuan Mathematics Research Center 
 - **<a href="https://JoZhouFang.github.io/file/topo_sin.pdf" target="_blank">Topology and geometry of singularities</a>**, Graduated topology seminar of SUSTech, May 21, 2024, joint with Wenhui Yang and Chenlu Huang 
 
-### Organized Workshops
+### 1.2.2 Organized Workshops
 - **<a href="https://JoZhouFang.github.io/writingtalks/Small%20workshop%20about%20several%20topics%20about%20geometry%20and%20topology" target="_blank">Small workshop on selected topics in geometry and topology</a>**, summer 2024, organized by <a href="mailto:12432018@mail.sustech.edu.cn">Chenlu Huang</a> and me 
 
-### Writings/Notes
+### 1.2.3 Writings/Notes
 
 <ul>
  <li>
@@ -83,12 +83,12 @@ The related works are as follows:
  </li>
 </ul>
 
-## Homotopy theory
+## 2.Homotopy theory
 
-### Talks
+### 2.1 Talks
 - **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of SUSTech, May 23, 2025 
 
-### Writings/Notes
+### 2.2 Writings/Notes
 
 <ul>
 <li>
@@ -116,11 +116,11 @@ The related works are as follows:
  </li>
 </ul>
 
-## Infinity categories
+## 3.Infinity categories
 
-### Talks
+### 3.1 Talks
  - **<a href="https://JoZhouFang.github.io/file/inf_cat_4.18.pdf" target="_blank">Exploring infinity category via simplicial sets</a>**, Graduate topology seminar of SUSTech, April 18, 2025 
 
-### Organized Workshops
+### 3.2 Organized Workshops
  - **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me 
 
