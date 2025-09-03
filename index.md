@@ -44,3 +44,5 @@ I am a master's student at Southern University of Science and Technology (SUSTec
 - Category Theory
 - Homotopy Theory
 - Topology in Physics
+
+More specifically, I am interested in homological and homotopical methods in algebra, geometry, and topology, as well as in studying problems from the perspective of category theory.
