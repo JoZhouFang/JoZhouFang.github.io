@@ -6,25 +6,14 @@ title: Writing/Talks
 
 <style>
   a {
-    color: #e63946;  
+    color: #000000ff;  
     text-decoration: underline;
   }
 
   summary {
-    color: #e63946;
+    color: #000000ff;
     text-decoration: underline dashed;
     cursor: pointer;
-  }
-
-  /* 让 Abstract 内容也变红 */
-  details, details summary, details p {
-    color: #e63946;
-  }
-
-  /* 让 Yunhao Sun 的名字变红 */
-  a[href="mailto:12332880@mail.sustech.edu.cn"] {
-    color: #e63946;
-    font-weight: bold;
   }
 </style>
 
@@ -73,7 +62,6 @@ The work I do can be divided into three parts:
 
 ### 2.2 Organized Workshops
  - **Workshop on infinite-categories**, fall 2023, organized by <a href="mailto:12332880@mail.sustech.edu.cn">Yunhao Sun</a> and me 
-
 
 ## 3.Topology of the configuration of eigenvectors and eigenvalues of parametrized Hamiltonians
 
@@ -135,3 +123,5 @@ The related works are as follows:
  </details>
  </li>
 </ul>
+
+
