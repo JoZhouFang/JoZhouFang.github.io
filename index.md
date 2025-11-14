@@ -21,7 +21,7 @@ title: Zhou Fang|Math
 
 My name is **Zhou Fang (Jo, 方舟)**.
 
-I am a master's student at Southern University of Science and Technology (SUSTech). My advisor is <a href="https://yifeizhu.github.io/" target="_blank" style="color: #e63946;">Yifei Zhu</a> 
+I am a master's student at Southern University of Science and Technology (SUSTech). My advisor is <a href="https://yifeizhu.github.io/" target="_blank" style="color: #e63946;">Yifei Zhu</a>. 
 
 **Email:** <a href="mailto:fangz2023@mail.sustech.edu.cn">fangz2023@mail.sustech.edu.cn</a>
 
@@ -31,7 +31,7 @@ I am a master's student at Southern University of Science and Technology (SUSTec
 ## Academic Background
 
 - **Sep 2023 - expected Jun 2026:** Southern University of Science and Technology, advised by <a href="https://yifeizhu.github.io/" target="_blank"><span style="color: #e63946;">Yifei Zhu</span></a>.
-- **Sep 2019 - Jun 2023:** Southern University of Science and Technology, advised by <a href="https://www.sustech.edu.cn/zh/faculties/liangkong.html" target="_blank"><span style="color: #e63946;">Liang Kong</span></a> and <a href="https://phy.sustech.edu.cn/faculty/detail/id/221.html?lang=zh-cn" target="_blank"><span style="color: #e63946;">Fei Ye</span></a>
+- **Sep 2019 - Jun 2023:** Southern University of Science and Technology, advised by <a href="https://www.sustech.edu.cn/zh/faculties/liangkong.html" target="_blank"><span style="color: #e63946;">Liang Kong</span></a> and <a href="https://phy.sustech.edu.cn/faculty/detail/id/221.html?lang=zh-cn" target="_blank"><span style="color: #e63946;">Fei Ye</span></a>.
 
 ---
 - Category Theory: Infinity categories, Simplicial sets, Derived functors, Model categories, Homotopy limits/colimits
