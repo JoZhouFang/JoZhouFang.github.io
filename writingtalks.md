@@ -27,6 +27,8 @@ The work I do can be divided into three parts:
 ### 1.1 Talks
 - **<a href="https://JoZhouFang.github.io/file/model_inf_5.23.pdf" target="_blank">Homotopy theory via model categories and their underlying infinity-categories</a>**, Graduate topology seminar of SUSTech, May 23, 2025 
 
+- **<a href="https://JoZhouFang.github.io/file/Kervaire_inv.pdf" target="_blank">John Jones's construction of a manifold in dimension 30 with the Kervaire invariant one</a>**, Graduate topology seminar of SUSTech, December 9, 2025
+
 ### 1.2 Writings/Notes
 
 <ul>
