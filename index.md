@@ -20,7 +20,7 @@ title: Zhou Fang|Math
 # About Me
 
 My name is **Zhou Fang (Jo, 方舟)**. I am a PhD student at Autonomous University of
-Barcelona (UAB). My advisor is <a href="https://mat.uab.cat/~kock/" target="_blank" style="color: #e63946;">Joachim Kock</a>. 
+Barcelona (UAB), funded by China Scholarship Council (CSC). My advisor is <a href="https://mat.uab.cat/~kock/" target="_blank" style="color: #e63946;">Joachim Kock</a>. 
 
 **Email:** <a href="mailto:fangz2023@mail.sustech.edu.cn">fangz2023@mail.sustech.edu.cn</a>
 
